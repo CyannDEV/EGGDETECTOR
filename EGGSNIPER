@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CyannDEV/BALAGBAGNALUA/refs/heads/main/ZENKIHUB"))()
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/ywIxUzMzN7iIJlKT/raw", true))()
+loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
+Spawner.Load()
